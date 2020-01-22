@@ -8,10 +8,10 @@ Plantilla para el desarrollo con Vue (incluyendo configuracion de Vuex y Vue-Rou
 <br />
 `npm install`
 
-## Development:
+## Desarrollo:
 
 `npm run dev`
 
-## Build
+## Producción:
 
 `npm run build`
