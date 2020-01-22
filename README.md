@@ -6,6 +6,7 @@ Plantilla para el desarrollo con [VueJS](https://vuejs.org/) incluyendo configur
 
 `cd Vue-Parcel-Template`
 <br />
+<br />
 `npm install`
 
 ## Desarrollo:
