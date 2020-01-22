@@ -5,6 +5,7 @@ Plantilla para el desarrollo con Vue (incluyendo configuracion de Vuex y Vue-Rou
 ## Instalación:
 
 `cd Vue-Parcel-Template`
+<br />
 `npm install`
 
 ## Development:
