@@ -15,3 +15,9 @@ Plantilla para el desarrollo con [VueJS](https://vuejs.org/) incluyendo configur
 ## Producción:
 
 `npm run build`
+
+---
+
+## LICENCIA:
+
+MIT
