@@ -4,9 +4,14 @@ Plantilla para el desarrollo con [VueJS](https://vuejs.org/) incluyendo configur
 
 ## Instalación:
 
+`git clone https://github.com/samuglz/Vue-Parcel-Template.git`
+<br />
+<br />
+
 `cd Vue-Parcel-Template`
 <br />
 <br />
+
 `npm install`
 
 ## Desarrollo:
