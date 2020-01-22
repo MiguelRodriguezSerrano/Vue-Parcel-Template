@@ -1,6 +1,6 @@
 # Plantilla Vue - Vue-Router - Vuex - Parcel
 
-Plantilla para el desarrollo con Vue (incluyendo configuracion de Vuex y Vue-Router), usando ParcelJS como Bundler.
+Plantilla para el desarrollo con [VueJS](https://vuejs.org/) incluyendo configuracion de [Vuex](https://vuex.vuejs.org/) y [Vue-Router](https://router.vuejs.org/), usando [ParcelJS](https://parceljs.org/) como Bundler.
 
 ## Instalación:
 
