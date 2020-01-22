@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Vue + Vuex + Vue-Router + Parcel empty project</h1>
+    <h1>Vue + Vuex + Vue-Router + Parcel Template</h1>
     <router-view />
   </div>
 </template>
